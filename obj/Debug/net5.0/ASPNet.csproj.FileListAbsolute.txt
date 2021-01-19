@@ -37,3 +37,4 @@
 /Users/bryan/ASPNet/obj/Debug/net5.0/ASPNet.pdb
 /Users/bryan/ASPNet/obj/Debug/net5.0/ASPNet.genruntimeconfig.cache
 /Users/bryan/ASPNet/obj/Debug/net5.0/ASPNet.csproj.CopyComplete
+/Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Escuela/Index.cshtml.g.cs
