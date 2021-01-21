@@ -1,0 +1,17 @@
+﻿
+@model Asignatura
+
+@{
+    ViewData["Title"] = "Información Asignatura";
+}
+
+<h1 class="display-4">Asignatura: </h1>
+
+<div class="text-center">
+    <p>
+        Nombre: @Model.Nombre <br>
+        Id: @Model.UniqueId
+    </p>
+</div>
+<!--aqui va el tag partial y el nombre de la vista parcial-->
+<partial name="ObjetoEscuelaSimple" />

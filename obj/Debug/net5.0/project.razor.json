@@ -15608,8 +15608,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/bryan/ASPNet/Views/Shared/ListaObjetoEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/bryan/ASPNet/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bryan/ASPNet/Views/Asignatura/Index.cshtml",
+      "TargetPath": "Views\\Asignatura\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15620,6 +15630,21 @@
     {
       "FilePath": "/Users/bryan/ASPNet/Views/Escuela/Index.cshtml",
       "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bryan/ASPNet/Views/Alumno/Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bryan/ASPNet/Views/Shared/ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bryan/ASPNet/Views/Alumno/MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15635,6 +15660,11 @@
     {
       "FilePath": "/Users/bryan/ASPNet/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bryan/ASPNet/Views/Asignatura/MultiAsignatura.cshtml",
+      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
       "FileKind": "mvc"
     },
     {

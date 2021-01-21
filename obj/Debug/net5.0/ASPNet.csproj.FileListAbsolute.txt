@@ -38,3 +38,9 @@
 /Users/bryan/ASPNet/obj/Debug/net5.0/ASPNet.genruntimeconfig.cache
 /Users/bryan/ASPNet/obj/Debug/net5.0/ASPNet.csproj.CopyComplete
 /Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Escuela/Index.cshtml.g.cs
+/Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Asignatura/Index.cshtml.g.cs
+/Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Asignatura/MultiAsignatura.cshtml.g.cs
+/Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Shared/ObjetoEscuelaSimple.cshtml.g.cs
+/Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Alumno/Index.cshtml.g.cs
+/Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Alumno/MultiAlumno.cshtml.g.cs
+/Users/bryan/ASPNet/obj/Debug/net5.0/Razor/Views/Shared/ListaObjetoEscuela.cshtml.g.cs

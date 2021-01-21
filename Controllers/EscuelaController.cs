@@ -10,9 +10,13 @@ namespace ASPNet.Controllers
         public IActionResult Index()
         {
             var escuela = new Escuela();
-            escuela.AñoFundación = 2021;
-            escuela.EscuelaId = Guid.NewGuid().ToString();
+            escuela.AñoDeCreación = 2021;
+            escuela.UniqueId = Guid.NewGuid().ToString();
             escuela.Nombre = "Bryan School";
+            escuela.Ciudad = "Quito";
+            escuela.Pais = "Ecuador";
+            escuela.Dirección = "Quitumbe";
+            escuela.TipoEscuela = TiposEscuela.Secundaria;
             //debe retornar una vista
             return View(escuela);
         }
